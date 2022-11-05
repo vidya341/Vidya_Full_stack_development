@@ -1,0 +1,26 @@
+body{
+  background-color: #b5f7ff;
+}
+a{
+  color:black;
+}
+.container1{
+  text-align: center;
+  width:90%;
+margin:auto;
+overflow:hidden;
+
+
+}
+footer{
+  background-color: #000;
+color:#fff;
+font-size:14px;
+
+}
+.container-fluid{
+  background-color:  #f5fccf;
+}
+li{
+  background-color:   #ebfaff;
+}

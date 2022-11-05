@@ -1,0 +1,60 @@
+body{
+  background-color:  #d6f5ff;
+}
+.ad_details{
+  padding: 10px;
+  margin: 10px;
+  background-color:#f0ffff;
+  border: solid;
+  width: auto;
+  border-left-width:10px;
+  border-left-color: #FF1493;
+
+}
+.ad_procedure{
+  
+  padding: 10px;
+  margin: 10px;
+  background-color:#f0ffff;
+  border: solid;
+  width: auto;
+  border-left-width:10px;
+  border-left-color: #FF1493;
+
+}
+.eligibility{
+
+  padding: 10px;
+  margin: 10px;
+  background-color:#f0ffff;
+  border: solid;
+  width: auto;
+  border-left-width:10px;
+  border-left-color: #FF1493;
+
+}
+.contact_det{
+
+  padding: 10px;
+  margin: 10px;
+  background-color:#f0ffff;
+  border: solid;
+  width: auto;
+  border-left-width:10px;
+  border-left-color: #FF1493;
+
+}
+.container1{
+  text-align: center;
+  width:90%;
+margin:auto;
+overflow:hidden;
+
+
+}
+footer{
+  background-color: #000;
+color:#fff;
+font-size:14px;
+
+}

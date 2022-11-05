@@ -1,0 +1,82 @@
+body{
+width:100%
+height:100%
+  background-color: #F9F9F9;
+}
+.place_img{
+  border: solid;
+
+}
+.imgs{
+  height: 100px;
+}
+.avail{
+  padding: 10px;
+  margin: 10px;
+  background-color:#f0ffff;
+  border: solid;
+  width: auto;
+  border-left-width:10px;
+  border-left-color: #FF1493;
+}
+.Partners{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.guru_mess{
+  padding-top: 50px;
+  padding-right: 10px;
+  position: relative;
+  width:75%;
+  float: right;
+
+}
+.guru_img{
+  padding-top: 20px;
+  padding: 10px;
+  position: relative;
+  float: left;
+  width: 20%;
+  height:200px;
+
+}
+#guru_image{
+  width:100%;
+  padding-top: 20px;
+  height:100%;
+
+}
+.guru{
+  padding:20px;
+  border: 3px solid;
+}
+#spl_hr{
+  border: 3px solid;
+}
+.container1{
+  text-align: center;
+  width:90%;
+margin:auto;
+overflow:hidden;
+
+
+}
+footer{
+  background-color: #000;
+color:#fff;
+font-size:14px;
+text-align: center;
+width:100%;
+margin:auto;
+overflow:hidden;
+
+}
+.con{
+  padding: 10px;
+  margin: 10px;
+  background-color:#f0ffff;
+  border: solid;
+  width: auto;
+  border-left-width:10px;
+  border-left-color: #FF1493;
+}

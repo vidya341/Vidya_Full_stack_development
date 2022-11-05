@@ -1,0 +1,113 @@
+
+.campus{
+top:80px;
+    padding: 10px;
+    margin: 10px;
+    background-color:#f0ffff;
+    border: solid;
+    width: auto;
+    border-left-width:10px;
+    border-left-color: #FF1493;
+}
+.em_contact{
+  top:80px;
+  width:20%;
+  position: relative;
+  float: right;
+  border: 3px solid;
+
+  padding: 10px;
+  margin: 10px;
+  background-color:#FCDDB0;
+  border: solid;
+
+}
+.campus{
+  position: relative;
+  width:75%;
+  float: left;
+}
+
+.arts{
+  top:40px;
+  left:50px;
+  width:45%;
+  height:180px;
+  position: relative;
+  float: left;
+  padding-left: 20px;
+  border:3px solid;
+  background-color: #FAF7F0;
+
+}
+.arts:hover{
+  background-color: #DFF6FF;
+}
+#art_h{
+  left:7px;
+  top:7px;
+  position: relative;
+  float: right;
+  width:70%;
+}
+#arts_img{
+  top:5px;
+  position: relative;
+  width:30%;
+  height:150px;
+  float: left;
+}
+.sports{
+  right:50px;
+  top:40px;
+  width:45%;
+  height: 180px;
+  position: relative;
+float: right;
+padding-right: 20px;
+border: 3px solid;
+background-color: #FAF7F0;
+}
+.sports:hover{
+  background-color: #DFF6FF;
+}
+#sports_h{
+  left:9px;
+  top:7px;
+  position: relative;
+  float: right;
+  width:70%;
+}
+#sports_img{
+  top:7px;
+  left:5px;
+  position: relative;
+  width:30%;
+  height:150px;
+  float: left;
+}
+#em_h{
+  border-top :3px solid;
+  border-bottom: 3px solid;
+}
+.container1{
+  text-align: center;
+  width:90%;
+margin:auto;
+overflow:hidden;
+
+
+}
+footer{
+  position: fixed;
+bottom: 0;
+left: 0;
+  background-color: #000;
+color:#fff;
+font-size:14px;
+text-align: center;
+width:100%;
+
+overflow:hidden;
+
+}
